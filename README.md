@@ -50,6 +50,21 @@ A dictionary with scopes as keys and lists of completions as values:
 In this case only the completions associated with selectors matching the current scope will be suggested.
 For more info about scope selectors see the [Unofficial Documentation][selectors].
 
+### Example
+```
+{
+  "folders": ...
+  "completions":[
+      ["I", "I am a ${1:snippet} baby!"]
+  ]
+}
+```
+
+To see the example in action type I and then press tab:
+
+![Animated Gif](http://zippy.gfycat.com/AchingPleasingCockerspaniel.gif)
+
+
 ### Thanks
 
 Thanks to [Amina](http://superuser.com/users/185370/amina) for [inspiring](http://superuser.com/q/965658/496621) this plugin.
