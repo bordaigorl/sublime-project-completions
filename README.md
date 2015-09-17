@@ -48,7 +48,11 @@ A dictionary with scopes as keys and lists of completions as values:
 ```
 
 In this case only the completions associated with selectors matching the current scope will be suggested.
-For more info about scope selectors see the [Unofficial Documentation][selectors]
+For more info about scope selectors see the [Unofficial Documentation][selectors].
+
+### Thanks
+
+Thanks to [Amina](http://superuser.com/users/185370/amina) for [inspiring](http://superuser.com/q/965658/496621) this plugin.
 
 [Package Control]: https://sublime.wbond.net/
 [docs]: https://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/api.html#sublime_plugin.EventListener.on_query_completions
