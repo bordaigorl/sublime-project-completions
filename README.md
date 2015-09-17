@@ -60,7 +60,9 @@ For more info about scope selectors see the [Unofficial Documentation][selectors
 }
 ```
 
-To see the example in action type I and then press tab
+To see the example in action type I and then press tab:
+
+![Animated Gif](http://zippy.gfycat.com/AchingPleasingCockerspaniel.gif)
 
 
 ### Thanks
